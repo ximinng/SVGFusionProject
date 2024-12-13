@@ -44,7 +44,8 @@ a.link:focus, a.link:hover {
 .x-gradient-font {
     margin-top: 0px;
     margin-bottom: 10px;
-    background: linear-gradient(107.54deg, #0078d4 .39%, #8661c5 51.23%, #ff9349 100%);
+    /*background: linear-gradient(107.54deg, #0078d4 .39%, #8661c5 51.23%, #ff9349 100%);*/
+    background: linear-gradient(107.54deg, #0078d4 .30%, #8661c5 40.23%, #ff9349 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -212,14 +213,14 @@ a.link:focus, a.link:hover {
 .footer-title {
     font-family: 'Avenir', sans-serif;
     color: rgba(255, 255, 255, 0.9);
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 800;
 }
 
 .footer-text {
     font-family: 'Avenir', sans-serif;
     color: rgba(255, 255, 255, 0.7);
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 800;
 }
 
