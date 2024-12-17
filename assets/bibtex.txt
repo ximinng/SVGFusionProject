@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={arXiv preprint},
-  year={20XX}
+@inproceedings{xing2024svgfusion,
+  title={SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion},
+  author={Xing, Ximing and Hu, Juncheng and Zhang, Jing and Xu, Dong and Yu, Qian},
+  booktitle={arXiv preprint: 2412.10437},
+  year={2024}
 }
